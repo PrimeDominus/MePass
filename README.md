@@ -1,4 +1,4 @@
-<!-- (Australian spelling, names, and other terminology) spell-checker:ignore decentralised, authorisation, centralised, utilise, utilised, utilises,utilisation, organisation, organisations, Vitalik, Buterin, blockchain -->
+<!-- (Australian spelling, names, and other terminology) spell-checker:ignore decentralised, authorisation, centralised, utilise, utilised, utilises,utilisation, organisation, organisations, Vitalik, Buterin, blockchain, Ethereum -->
 
 # MePass
 
@@ -41,7 +41,7 @@ Images of the multiple tweet thread (clickable-linked to each post):
 <a href="https://twitter.com/VitalikButerin/status/986104674229960704?s=20"><img src="./docs/multimedia/Screenshot-2018-6-5 Vitalik Not giving away ETH Buterin on Twitter(4).png"></a>
 <a href="https://twitter.com/VitalikButerin/status/986105130197041152?s=20"><img src="./docs/multimedia/Screenshot-2018-6-5 Vitalik Not giving away ETH Buterin on Twitter(5).png"></a>
 
-## The problem. In plain English
+## The problem in plain English
 
 ### A _thank you_ to blockchain engineers
 
@@ -49,17 +49,19 @@ The blockchain community of software engineers have been excellent at creating h
 
 From a technical standpoint, it works, and its benefits over commonly used centralised services are clearly evident and revolutionary.
 
+You are heros.
+
 Thank you.
 
 ### The trouble is...
 
-The trouble is that it is difficult to use for people who are new to it. Even for people coming from a technically experienced background. Worse still, for all the very evident benefits of blockchain over centralised systems, the difficulty of using it is more than enough for so-called "average Joe's" and "the general public" to be repulsed by it.
+The trouble is that it is difficult to use for people who are new to it. Even for people coming from a technically experienced background. Worse still, for all the very evident benefits of blockchain over centralised systems, the difficulty of using it is more than enough for the so-called "average Joe" and "the general public" to be repulsed by it.
 
 Heck, the basic concept of a wallet address is indeed "WTF" to most people. Add to this the notion of private keys and seed phrases. And, that's just getting started with only three concepts inherent to it all.
 
 ### Good security is causing bad security
 
-It's the sheer technical excellence of these basic elements that enables the privacy, security, and control of a person's property to indeed be in ___their___ control.
+It's the sheer technical excellence of these basic elements that enables the privacy, security, and control of ___your___ crypto property to indeed be in ___your___ control.
 
 Ironically, the good security elements of blockchain technology, such as seed phrases and private keys, has in practice become the cause of bad security habits that are all too common. Some examples:
 
@@ -99,6 +101,33 @@ Worse still, and a much, MUCH more common issue is that current blockchain softw
 
 It's impractical, to say the least, and terribly insecure.
 
+### Y u no have nice things
+
+Tricky things that makes a ubiquitous solution technically difficult:
+
+- If we're using a username and password kind of combination, where are these credentials stored and who has access to them?
+- Ethereum DApps, for example, rely on "message signing" often through the wonderful browser plugin, MetaMask.
+
+### MetaMask you say
+
+MetaMask has made life MUCH easier for us. But, at least for our purpose here...
+
+- MetaMask doesn't work on mobile devices.
+- MetaMask functions mainly as a DApp wallet, so it still has the issue of repeatedly entering your private keys/seed phrase on a new device, even if your goal is simply to login to a DApp.
+- While it DOES make life less difficult on desktop web browsers that are compatible, it's still too difficult for most people; even multiple usernames and passwords have proven to be too difficult for "most people" to utilise comfortably, and the MetaMask learning curve is considerably more difficult and different to that.
+
+### Meh... "Most People" you say
+
+We're here to make the WORLD a better place. The WORLD includes "most people" and even "most people" in first world countries with an abundance of many things still have problems with simpler methods of interaction than MetaMask. This is the real life.
+
+## The problem as an acronym
+
+It's ___NCRAP___&trade; &copy;
+
+Meaning it's ___Not___-___Compelling___-enough-to-___Re___-___Align___-___People___
+
+ Patent Pending: Me.
+
 -= [Back to Contents](#contents) =-
 
 # The current approaches to solving this problem being explored in the decentralised world
@@ -110,3 +139,7 @@ https://github.com/ethereum/EIPs/issues/1115
 https://ethereum-magicians.org/t/erc-1077-and-erc-1078-the-magic-of-executable-signed-messages-to-login-and-do-actions/351
 
 https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-3/
+
+https://keybase.io/docs/server_security
+
+Just so you know this problem has been around for a while, even before Bitcoin: http://dig.csail.mit.edu/2007/06/ieee-ic-decentralized-identity-weitzner.html
