@@ -1,4 +1,4 @@
-<!-- (Australian spelling, names, and other terminology) spell-checker:ignore decentralised, authorisation, centralised, utilise, utilised, utilises,utilisation, organisation, organisations, Vitalik, Buterin, blockchain, Ethereum -->
+<!-- (Australian spelling, names, and other terminology) spell-checker:ignore decentralised, authorisation, centralised, utilise, utilised, utilises,utilisation, organisation, organisations, Vitalik, Buterin, blockchain, Ethereum, esque -->
 
 # MePass
 
@@ -141,5 +141,10 @@ https://ethereum-magicians.org/t/erc-1077-and-erc-1078-the-magic-of-executable-s
 https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-3/
 
 https://keybase.io/docs/server_security
+
+WhatsApp-Web-esque Mechanisms:
+https://walletconnect.org
+
+https://www.uport.me has this plus other features.
 
 Just so you know this problem has been around for a while, even before Bitcoin: http://dig.csail.mit.edu/2007/06/ieee-ic-decentralized-identity-weitzner.html
