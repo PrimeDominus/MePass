@@ -147,4 +147,6 @@ https://walletconnect.org
 
 https://www.uport.me has this plus other features.
 
+http://blog.aragon.one/enter-the-world-of-personal-daos/ a personal DAO approach to identity/auth/login woes of Web3
+
 Just so you know this problem has been around for a while, even before Bitcoin: http://dig.csail.mit.edu/2007/06/ieee-ic-decentralized-identity-weitzner.html
